@@ -1,1 +1,13 @@
 Sintaxe Básica do Markdown (https://www.markdownguide.org/basic-syntax/)
+
+Como passar arquivos e repositórios novos pro GitHub:
+
+Criar pasta no armazenamento do computador
+abrir no GIT Bash
+* git status (aparecera o nome da pasta nova em vermelho)
+*git add. ou -a
+*git status(aparecera em verde)
+*git commit -m "mensagem"
+*git status
+*git push origin main (enviara todos os commits para a nuvem)
+
